@@ -2,6 +2,6 @@
 JAVA_HOME=/srv/jdk1.8.0_111
 JAVA=$JAVA_HOME/bin/java
 export JAVA_HOME
-#/srv/kafka_2.11-0.10.0.1/bin/zookeeper-server-start.sh /srv/kafka_2.11-0.10.0.1/config/zookeeper.properties &
-/srv/kafka_2.11-0.10.0.1/bin/kafka-server-start.sh /srv/kafka_2.11-0.10.0.1/config/server.properties &
+#/srv/kafka_2.11-0.10.1.0/bin/zookeeper-server-start.sh /srv/kafka_2.11-0.10.1.0/config/zookeeper.properties &
+/srv/kafka_2.11-0.10.1.0/bin/kafka-server-start.sh /srv/kafka_2.11-0.10.1.0/config/server.properties &
 

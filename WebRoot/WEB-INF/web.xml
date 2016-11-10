@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE PUBLIC>
+<web-app>
+  <display-name>YTZQ-ITOM</display-name>
+	<!--******************************** 其他配置  begin *********************************-->
+	<session-config>
+		<session-timeout>30000</session-timeout>
+	</session-config>
+	<welcome-file-list>
+		<welcome-file>home.html</welcome-file>
+	</welcome-file-list>
+</web-app>
+ 
